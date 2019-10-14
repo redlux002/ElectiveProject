@@ -1,0 +1,23 @@
+{
+  "name": "electiveproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.io/redlux002/ElectiveProject",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redlux002/ElectiveProject.git"
+  },
+  "author": "Gabby Gabuyo.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redlux002/ElectiveProject/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
